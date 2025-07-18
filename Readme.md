@@ -61,5 +61,5 @@ The app follows a client-server model with the following technologies:
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repository-url>
+   git clone [<your-repository-url>](https://github.com/Chaitanya179/DocSpot.git)
 
